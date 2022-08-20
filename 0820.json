@@ -1,6 +1,6 @@
 {
 "spider":"https://lxluck1314.github.io/XGD/0820.jar",
-
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"
