@@ -1,7 +1,7 @@
 ﻿  // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"自己的全合集.jar",
+"spider":"https://lxluck1314.github.io/XGD/0820.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
