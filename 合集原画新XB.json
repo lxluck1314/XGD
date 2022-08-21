@@ -1,11 +1,11 @@
   // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"自己的合集新原画XB.jar地址",
+"spider":"https://lxluck1314.github.io/XGD/合集原画新XB.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=直播文件地址base64编码"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="
 ]}]}],
 
 "sites":[
