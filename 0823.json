@@ -222,6 +222,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"csp_Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://drive.9t.ee","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/Tangrenjie.jar"},
     {
       "key": "mjxq",
       "name": "🌏美剧星球(SP)",
