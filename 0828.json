@@ -1,6 +1,6 @@
 
 {
-  "spider":"分号内的文字换成自己的jar地址即可",
+  "spider":"https://lxluck1314.github.io/XGD/0828.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jbi5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2OC9saXZlLzA4MjJ6Yi50eHQ="]}]}],
 
   "sites":[
