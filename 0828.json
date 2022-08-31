@@ -361,6 +361,7 @@
       "filterable": 1,
       "ext": "https://xzhg1234.github.io/freedom/MaooXB/初中课堂.json"
     },
+    {"key":"csp_biubiu_测试","name":"🔥香蕉(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/香蕉资源.json"},
     {"key":"csp_XBiubiu_四虎","name":"🔥四虎情色(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/四虎AV.json"},
     {"key":"csp_XBiubiu_jable","name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/jable.json"},
     {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
