@@ -1,6 +1,6 @@
 {
 "spider":"https://lxluck1314.github.io/XGD/top95.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seGx1Y2sxMzE0LmdpdGh1Yi5pby9YR0QvbGl2ZXMudHh0"]}]}],
 
  "sites":[ {"key":"快播云","name":"快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"csp_BBB","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
