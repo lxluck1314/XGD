@@ -72,16 +72,6 @@
   "filterable": 0,
   "ext": "https://pan.hikerfans.com/"
  },
-{
-  "key": "csp_Alist11",
-  "name": "Joe自用",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "http://8.219.150.174:5244/"
- },
  {
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
