@@ -66,8 +66,6 @@
 	{"key":"csp_xpath_wanmeikk",	"name":"🔥完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/XP/wanmeikk.json"},
 	{"key":"csp_biubiu_测试1",		"name":"🔥测试1(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/新媒体.json"},
 	{"key":"csp_biubiu_测试",		"name":"🔥香蕉(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/香蕉资源.json"},
-	{"key":"csp_XBiubiu_四虎",        "name":"🔥四虎情色(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/四虎AV.json"},
-        {"key":"csp_XBiubiu_jable",       "name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/jable.json"},
 	],
 	"parses": [{
 			"name": "解析聚合",
