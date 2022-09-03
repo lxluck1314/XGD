@@ -27,51 +27,8 @@
             "filterable":0
 },
 
-{"key":"csp_Alist22","name":"🐞Adult.Drive(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://cn.kstore.space/download/2868/jar/alist.jar","ext":"https://drive.9t.ee"},
-//第一种方法，独立jar
-{
-  "key": "csp_Alist1",
-  "name": "一只鱼",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://alist.youte.ml"
- },
-//第二种方法，jar支持
-{
-  "key": "csp_Alist2",
-  "name": "七米蓝",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://al.chirmyram.com"
- },
+{"key":"csp_Alist2","name":"🐞Alist云盘(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/Alist.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/Alist.jpg"},
 {"key":"afreecatv",     "name":"afreecatv","type":1,"api":"http://wabc.ml/cs.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Alist",     "name":"Alist","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://drive.9t.ee","jar":"https://wabc.ml/m/A3.jar"},
-{
-  "key": "csp_Alist9",
-  "name": "梓澪の妙妙屋",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://xn--i0v44m.xyz/"
- },
-{
-  "key": "csp_Alist10",
-  "name": "嗨翻",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://pan.hikerfans.com/"
- },
  {
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
@@ -361,9 +318,6 @@
       "filterable": 1,
       "ext": "https://xzhg1234.github.io/freedom/MaooXB/初中课堂.json"
     },
-    {"key":"csp_biubiu_测试","name":"🔥香蕉(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/香蕉资源.json"},
-    {"key":"csp_XBiubiu_四虎","name":"🔥四虎情色(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/四虎AV.json"},
-    {"key":"csp_XBiubiu_jable","name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/jable.json"},
     {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_biubiu_小宝影院","name":"🥒小宝影院XB(墙外)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xzhg1234.github.io/freedom/MaooXB2/小宝影院.json"},
@@ -454,6 +408,9 @@
     {"key":"csp_xpath_doujiaow","name":"豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xzhg1234.github.io/freedom/MaooXP/doujiaow.json"},
     {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xzhg1234.github.io/freedom/MaooXP/pianba.json"},
     {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xzhg1234.github.io/freedom/MaooXP/zj883.json"},
+    {"key":"csp_biubiu_测试","name":"🔥香蕉(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/18/香蕉资源.json"},
+    {"key":"csp_XBiubiu_四虎","name":"🔥四虎(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/四虎AV.json"},
+    {"key":"csp_XBiubiu_jable","name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/jable.json"},
 
     ## M浏览器中APP影视规则支持(AppYsV2)
     #萝卜/白菜/木白/绿豆
