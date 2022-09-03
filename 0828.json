@@ -1,7 +1,7 @@
 
 {
   "spider":"https://lxluck1314.github.io/XGD/0828.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jbi5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2OC9saXZlLzA4MjJ6Yi50eHQ="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seGx1Y2sxMzE0LmdpdGh1Yi5pby9YR0QvbGl2ZXMudHh0"]}]}],
 
   "sites":[
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
