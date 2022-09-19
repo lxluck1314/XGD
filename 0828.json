@@ -28,7 +28,7 @@
             "filterable":0
 },
 
-{"key":"csp_Alist2","name":"🐞Alist云盘(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://lxluck1314.github.io/XGD/Alist.txt","jar":"https://lxluck1314.github.io/XGD/Alist.jpg"},
+{"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/Alist.json"},
 {"key":"afreecatv",     "name":"afreecatv","type":1,"api":"http://wabc.ml/cs.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
  {
 	"key": "Lezhu_spider",
