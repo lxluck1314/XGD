@@ -30,15 +30,6 @@
 	"searchable": 1,
 	"ext": ""
 },
-{
-      "key": "Smdyy",
-      "name": "🐎神马影院",
-      "type": 3,
-      "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
@@ -135,18 +126,8 @@
       "filterable": 1,
       "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
-    {
-      "key": "csp_xpath_yinfans",
-      "name": "💥音范丝4K",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
-    },
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-    {"key":"csp_Cokemv","name":"🎀Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_xp_cokemv","name":"🥮Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/cokemv.json"},
     {"key":"csp_Auete","name":"🍒Auete影院(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":0,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"🚬厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -216,8 +197,7 @@
     {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"},
     {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
     {"key":"csp_xml___量子资源","name":"🐝量子资源"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/LIBVIO.json"},
-    
+    {"key":"csp_xp_libv","name":"🍲Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/libv.json"},
     {"key":"csp_XYQBiu_凌云影视","name": "🍀凌云","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://神器每日推送.tk/XYQxb/凌云影视.json"},
     {"key":"csp_XYQBiu_万能影院","name": "🍀万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://神器每日推送.tk/XYQxb/万能影院.json"},
     {"key":"csp_XYQBiu_大米星球","name":"🍀大米","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/大米星球.json"},
