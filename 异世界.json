@@ -15,7 +15,6 @@
   "cateIdR": "/index.php/vod/show/(\\S+)/id/20.html",
   "cateManual": {
     "日漫": "area/日本",
-    "BD漫": "area/BD漫",
     "国漫": "area/中國"
   },
 
