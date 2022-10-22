@@ -781,7 +781,7 @@
        },
     {"key":"csp_xpath_age","name":"💢AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/agefans.json"},
     {"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lxluck1314.github.io/XGD/异世界.json"},
-    {"key":"csp_XBiubiu_jable","name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ml/mao1/biu/jable.json"},
+    {"key":"csp_XBiubiu_jable","name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ga/mao1/biu/jable.json"},
     ## 广大侠 资源网采集
     #官方解析
     {"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
