@@ -4,7 +4,7 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seGx1Y2sxMzE0LmdpdGh1Yi5pby9YR0QvbGl2ZTAyLnR4dA=="]}]}],
 
   "sites":[
-    {"key":"Kunyu77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Kunyu77","name":"🐝77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Anime1","name": "🌸小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
 		"key": "KanSJ_spider",
@@ -25,10 +25,8 @@
     {"key":"293视频","name":"🐰293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"3EDY","name":"❄3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"北雁资源","name":"🦢北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
     {"key":"csp_SP361","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_AppYsV2","name":"🎓优众影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+    {"key":"csp_Kuaikan","name":"🗺快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "Gitcafe",
       "name": "📜小纸条",
@@ -99,7 +97,7 @@
 {"key":"csp_app_独优影视","name":"🎯独优影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {
       "key": "csp_appysv2_amhys",
-      "name": "🍀爱麻花影视〔V2〕",
+      "name": "🍀爱麻花影视(V2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -109,7 +107,7 @@
     },
     {
       "key": "爱酷",
-      "name": "🍀爱酷〔V2〕",
+      "name": "🍀爱酷(V2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -178,16 +176,11 @@
       "filterable": 1,
       "ext": "https://agit.ai/leevi/apps/raw/branch/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
     },
-    {
-      "key": "热舞",
-      "name": "💃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
-    },
+{"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/B站.txt"},
+{"key":"csp_Bili演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/演唱会.txt"},
+{"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/歌曲.txt"},
+{"key":"csp_Bili热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/女团.txt"},
+{"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt"},
     {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"},
     {"key":"csp_biubiu_斗鱼","name":"🐟斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"},
     {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
@@ -203,7 +196,7 @@
         },
         {
             "key": "csp_XBPQ极品",
-            "name": "极品(XBPQ)",
+            "name": "📨极品(XBPQ)",
             "type":3,
             "api":"csp_xBPQ",
             "searchable":1,
@@ -213,7 +206,7 @@
         },
         {
             "key": "csp_xBPQ真不卡",
-            "name": "真不卡(XBPQ)",
+            "name": "🎀真不卡(XBPQ)",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -612,7 +605,7 @@
         },
         {
             "key": "小城",
-            "name": "小城影视",
+            "name": "📯小城影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
