@@ -1,7 +1,7 @@
 
 {
   "spider":"https://lxluck1314.github.io/XGD/1020.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seGx1Y2sxMzE0LmdpdGh1Yi5pby9YR0QvbGl2ZTAxLnR4dA=="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seGx1Y2sxMzE0LmdpdGh1Yi5pby9YR0QvbGl2ZTAyLnR4dA=="]}]}],
 
   "sites":[
     {"key":"Kunyu77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -243,7 +243,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"
+            "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/大米星球.json"
         },
         {
             "key": "csp_xpath_chinatv",
@@ -466,16 +466,6 @@
             "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/Auete%E5%BD%B1%E8%A7%86.json"
         },
         {
-            "key": "csp_XBiubiu哔嘀影视",
-            "name": "🍠哔嘀影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
-        },
-        {
             "key": "云播看看",
             "name": "🌨云播看看",
             "type": 3,
@@ -625,16 +615,6 @@
             "ext": "http://bc.yybox.xyz/api.php/v1.vod"
         },
         {
-            "key": "刺猬影视",
-            "name": "🦔刺猬影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
-        },
-        {
             "key": "多多",
             "name": "🐶多多影视",
             "type": 1,
@@ -670,16 +650,6 @@
             "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
         },
         {
-            "key": "QC 影视",
-            "name": "🤠QC 影视",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"
-        },
-        {
             "key": "玖卿乐播",
             "name": "🧯玖卿乐播",
             "type": 3,
@@ -710,44 +680,12 @@
             "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
         },
         {
-            "key": "多多资源",
-            "name": "🍊多多资源",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "多多资源2",
-            "name": "🥬多多资源",
-            "type": 1,
-            "api": "https://a.7dyu.cn/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "每天看看",
-            "name": "🍌每天看看",
-            "type": 1,
-            "api": "http://47.113.126.237:1234/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "木子看剧",
             "name": "🍒木子看剧",
             "type": 1,
             "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "考拉资源",
-            "name": "🍈考拉资源",
-            "type": 1,
-            "api": "https://ikaola.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "忆梦资源",
@@ -774,14 +712,6 @@
             "quickSearch": 1
         },
         {
-            "key": "土狗 360",
-            "name": "🥒土狗 360",
-            "type": 1,
-            "api": "http://360.tgzy.cc/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "M3U8资源",
             "name": "🍇M3U8资源",
             "type": 1,
@@ -798,42 +728,10 @@
             "quickSearch": 0
         },
         {
-            "key": "天天影视",
-            "name": "🥗天天影视",
-            "type": 1,
-            "api": "http://tttv.cf/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "盘看影视",
-            "name": "🥑盘看影视",
-            "type": 1,
-            "api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "幻风影视",
-            "name": "🥫幻风影视",
-            "type": 1,
-            "api": "http://vip857.top/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "小鸟动漫",
             "name": "🍚小鸟动漫",
             "type": 1,
             "api": "http://xydm.baicai.buzz/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "铭轩影视",
-            "name": "🍧铭轩影视",
-            "type": 1,
-            "api": "http://lz0716.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
         },
@@ -860,48 +758,6 @@
             "api": "http://aliys.cn:90/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "千寻时光",
-            "name": "🍱千寻时光",
-            "type": 1,
-            "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "MX 影院",
-            "name": "🌭MX 影院",
-            "type": 1,
-            "api": "http://49.235.107.145:81/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "MBO 影视",
-            "name": "🍹MBO 影视",
-            "type": 0,
-            "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-      {
-      "key": "csp_biubiu_555电影",
-      "name": "🏅555 电影",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/555%E7%94%B5%E5%BD%B1.json"
-    },
-     {
-      "key": "波比影视",
-      "name": "🍠波比影视",
-      "type": 1,
-      "api": "http://xxhhsc.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
         },
      {
        "key": "csp_XBiubiu_0855",
