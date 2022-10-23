@@ -585,25 +585,6 @@
             "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
-            "key": "北雁资源",
-            "name": "🦆北雁资源",
-            "type": 1,
-            "api": "https://zy.beiyan.cc:4433/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playUrl": "",
-            "categories": [
-                "电影",
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-        {
             "key": "小城",
             "name": "📯小城影视",
             "type": 3,
@@ -778,7 +759,7 @@
       "filterable": 1,
       "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
        },
-    {"key":"csp_xpath_age","name":"💢AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/agefans.json"},
+    {"key":"drpy_js_AGE动漫","name":"💢AGE动漫(JS)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/AGE动漫.js"},
     {"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lxluck1314.github.io/XGD/异世界.json"},
     {"key":"csp_XBiubiu_jable","name":"🔥jable(翻,换播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wabc.ga/mao1/biu/jable.json"},
     ## 广大侠 资源网采集
